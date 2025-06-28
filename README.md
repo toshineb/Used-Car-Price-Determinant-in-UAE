@@ -84,8 +84,7 @@ I’m **Tosin Bello**, a **Data Analyst and Data Scientist** passionate about so
 ## 📂 How to Reproduce
 
 1. Download the notebook or view the PDF above.
-2. If running locally, ensure the dataset `UAE_Used_cars.csv` is present.
-3. Run each cell step-by-step or adapt for your own predictive analysis.
+2. Run each cell step-by-step or adapt for your own predictive analysis.
 
 ---
 
